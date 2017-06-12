@@ -8,7 +8,7 @@ description: I made this blog for testing Jekyll hosting on GitHub, but I hope i
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://emmanuellopezguerrero.com/assets/images/profile.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -18,10 +18,10 @@ picture: https://emmanuellopezguerrero.com/assets/images/profile.jpg
 
 resume: true
 resume-external: false
-resume-url: https://emmanuellopezguerrero.com/assets/ResumeEmmanuelLopez.pdf
+resume-url: assets/ResumeEmmanuelLopez.pdf
 
 
-url: https://emmanuellopezguerrero.com
+url: http://emmanuellopezguerrero.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -110,4 +110,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://emmanuellopezguerrero.com
+    base_url: http://emmanuellopezguerrero.com

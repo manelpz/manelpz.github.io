@@ -1,6 +1,6 @@
 # main text of home
 name: Emmanuel López
-bio: .Net Developer and enthusiastic newbie of FrondEnd
+bio: By now I´m working in my new brand Portfolio, sorry for the inconvenience
 
 # twitter summary info
 description: I made this blog for testing Jekyll hosting on GitHub, but I hope in the future use it as Portfolio of my work. 
@@ -8,7 +8,7 @@ description: I made this blog for testing Jekyll hosting on GitHub, but I hope i
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -36,8 +36,8 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [Blog, Project, Portfolio] # only show disqus for posts that have these categories
-
+  #categories: [Blog, Project, Portfolio] # only show disqus for posts that have these categories
+  categories: [Portfolio]
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
@@ -53,7 +53,7 @@ stackoverflow: 1669467/emmanuel-lópez
 # quora: userquora
 # reddit: username
 # vimeo: myvimeo
-email: manelpz@icloud.com
+email: emmanuel.lopez.g@icloud.com
 
 author:
     johndoe:
@@ -79,11 +79,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -98,7 +98,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true

@@ -1270,7 +1270,7 @@ body.dark-theme{
   .project__img {
     margin: 0 auto;
      order: -1; 
-    width: 21%; /* o 100% si prefieres que sea más grande */
+    width: 51%; /* o 100% si prefieres que sea más grande */
   }
 
   .project__bg {

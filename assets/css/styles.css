@@ -1471,7 +1471,7 @@ body.dark-theme{
 
     .project__container{
         background-color:var(--first-color-second);
-        border-radius:  .5rem;
+        border-radius:  1.5rem;
         padding: 3rem 2.5rem 2rem;
         grid-template-columns: 1fr max-content;
         column-gap:3rem;
